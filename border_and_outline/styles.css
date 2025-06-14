@@ -1,0 +1,29 @@
+div{
+    background-color: darkblue;
+    color: white;
+    height: 300px;
+    width: 300px;
+    /* border-style:solid;
+    border-width: 10px;
+    border-color: red; */
+
+
+    border: yellow solid 10px;
+    border-radius: 20px;
+    border-top-style: dashed;
+    border-top-color: green;
+    
+
+    border-right-style: double;
+    border-right-color:gold;
+
+    outline: greenyellow solid 10px;
+    outline-offset: 3px;
+
+    text-align: center;
+
+    
+}
+body{
+    padding: 50px;
+}

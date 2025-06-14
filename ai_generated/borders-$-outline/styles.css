@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.box {
+    background: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    width: 250px;
+    text-align: center;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Border examples */
+.border-basic {
+    border: 3px solid #007BFF;
+}
+
+.border-dashed {
+    border: 3px dashed #28a745;
+}
+
+.border-double {
+    border: 5px double #dc3545;
+}
+
+.border-groove {
+    border: 8px groove #6f42c1;
+}
+
+.border-radius {
+    border: 3px solid #17a2b8;
+    border-radius: 15px;
+}
+
+.border-mixed {
+    border-top: 5px solid red;
+    border-right: 5px dashed blue;
+    border-bottom: 5px dotted green;
+    border-left: 5px double orange;
+}
+
+/* Outline examples */
+.outline-basic {
+    outline: 3px solid #343a40;
+}
+
+.outline-offset {
+    outline: 4px solid #fd7e14;
+    outline-offset: 10px;
+}
+
+.outline-dashed {
+    outline: 4px dashed #20c997;
+}
+
+.outline-inset {
+    outline: 4px inset #6c757d;
+}
+
+/* Optional: Smooth hover effect */
+.box:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+}

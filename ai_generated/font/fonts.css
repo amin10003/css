@@ -1,0 +1,28 @@
+.font-family {
+    font-family: Georgia, serif;
+  }
+  
+  .font-style {
+    font-style: italic;
+  }
+  
+  .font-size {
+    font-size: 24px;
+  }
+  
+  .font-variant {
+    font-variant: small-caps;
+  }
+  
+  .font-weight {
+    font-weight: bold;
+  }
+  
+  .line-height {
+    line-height: 2;
+  }
+  
+  .font-shorthand {
+    font: italic small-caps bold 20px/1.5 "Courier New", monospace;
+  }
+  

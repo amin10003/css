@@ -1,0 +1,12 @@
+/* ul {
+    color: red;
+} */
+/* use hexadecimal rather than names */
+ul{
+    color: #f1f;
+}
+body{
+    border-style: dashed ;
+    margin-left: 1.5cm;
+    background-color: crimson;
+}

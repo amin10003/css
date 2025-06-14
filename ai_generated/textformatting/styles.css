@@ -1,0 +1,24 @@
+.text-color {
+    color: blue;
+  }
+  
+  .text-align {
+    text-align: center;
+  }
+  
+  .text-decoration {
+    text-decoration: underline;
+  }
+  
+  .text-transform {
+    text-transform: uppercase;
+  }
+  
+  .text-indent {
+    text-indent: 50px;
+  }
+  
+  .text-shadow {
+    text-shadow: 2px 2px 5px red;
+  }
+  
